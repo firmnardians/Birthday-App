@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.part1{
+    height: 100vh;
+    background: dodgerblue;
+    text-align: center;
+}
+.part2{
+    height: 100vh;
+    background: rgb(244, 122, 138);
+}
+.part3{
+    height: 100vh;
+    background: rgb(250, 225, 112);
+    text-align: center;
+}
+.part4{
+    height: 100vh;
+    background: rgb(245, 103, 68);
+}
+.heytitle{
+    color: #fff;
+    padding: 20px;
+    font-size: 30px;
+    position: relative;
+    top: 40%;
+}
+.heytitle2{
+    color: #fff;
+    padding: 20px;
+    font-size: 30px;
+    position: relative;
+    top: 30%;
+}
+.scroll{
+    padding: 8px 12px;
+    color: #fff;
+    background: transparent;
+    border: 2px solid #fff;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+
+
+}
+a{
+    color: #333;
+}
+.forme{
+    text-align: center;
+    padding: 20px;
+    font-weight: 400;
+    background: #333;
+    color: #fff;
+}
