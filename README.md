@@ -1,2 +1,2 @@
-# birthday
+# Birthday App
 Happy birthday
